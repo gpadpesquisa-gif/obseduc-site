@@ -18,6 +18,19 @@ npm run build
 
 A pasta `dist/` é o resultado publicável e não é versionada.
 
+## Área AVALUSCS
+
+A página [`avaluscs.html`](./avaluscs.html) reúne seis documentos públicos da pasta compartilhada do Google Drive em abas acessíveis:
+
+- Acervo I Coleção Jornal impresso (encarte) JORNAL DGABC
+- Acervo I Coleção Livros
+- Apresentação Institucional I Quem Somos
+- Editorial de Lançamento I AVALUSCS
+- Estudo em Pauta I Séries de Ensaios
+- Vozes da Educação I Entrevista Inaugural
+
+O arquivo `Apresentaçã_Jornal AVALUSCS.pptx` foi retirado da área conforme solicitado. Os documentos permanecem hospedados no Drive; portanto, o compartilhamento precisa continuar como **qualquer pessoa com o link — leitor** para que a visualização incorporada e os links externos funcionem.
+
 ## Publicar na Vercel
 
 1. Acesse a Vercel e escolha **Add New Project**.

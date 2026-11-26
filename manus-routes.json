@@ -1,5 +1,6 @@
 {
   "routes": [
-    { "path": "/", "title": "Observatório de Educação do Grande ABC" }
+    { "path": "/", "title": "Observatório de Educação do Grande ABC" },
+    { "path": "/avaluscs.html", "title": "AVALUSCS | Observatório de Educação do Grande ABC" }
   ]
 }

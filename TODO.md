@@ -10,3 +10,7 @@
 - [x] Garantir acessibilidade com hierarquia semântica, contraste adequado, navegação por teclado, textos alternativos e foco visível.
 - [x] Incluir metadados básicos para compartilhamento e descoberta, sitemap, robots e manifesto de rotas.
 - [x] Preparar a estrutura para versionamento no GitHub e publicação como site estático na Vercel.
+- [x] Criar a aba institucional AVALUSCS com identidade própria, propósito editorial e navegação integrada ao site.
+- [x] Criar uma aba para cada um dos seis documentos selecionados na pasta pública do Drive.
+- [x] Retirar da área AVALUSCS o arquivo `Apresentaçã_Jornal AVALUSCS.pptx`, conforme solicitado.
+- [x] Adicionar visualização incorporada do Drive e link alternativo para abrir cada documento em nova aba.
