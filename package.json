@@ -1,0 +1,10 @@
+{
+  "name": "obeducabc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional do Observatório de Educação do Grande ABC",
+  "scripts": {
+    "dev": "python3 -m http.server 3000 --bind 0.0.0.0",
+    "build": "node scripts/build.mjs"
+  }
+}

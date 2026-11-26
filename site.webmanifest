@@ -1,0 +1,9 @@
+{
+  "name": "Observatório de Educação do Grande ABC",
+  "short_name": "Observatório ABC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f4ef",
+  "theme_color": "#102a43",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
